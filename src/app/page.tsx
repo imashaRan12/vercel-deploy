@@ -21,6 +21,7 @@ export default function Home() {
             .
           </li>
           <li>Save and see your changes instant and using ci cd.</li>
+          <li>This is a new line.</li>
         </ol>
 
         <div className="flex gap-4 items-center flex-col sm:flex-row">
